@@ -17,13 +17,12 @@ viewer
 
 This is a basic (Minimum Viable Product) issue tracking system, that is used for tracking tickets, be it a bug, feature or anything alike.
 
-#The features include
+###The features include
 
 General:
 
 - role management
-- exception handling, tells the user if something's wrong
-- 
+- exception handling, tells the user if something's wrong using a modal
 
 Header:
 
