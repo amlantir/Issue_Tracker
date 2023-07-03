@@ -17,7 +17,7 @@ Run `docker-compose up -d` in the main folder where the `compose.yaml` file is l
 
 This is a basic (Minimum Viable Product) issue tracking system, that is used for tracking tickets, be it a bug, feature or anything alike.
 
-###The features include
+### The features include
 
 General:
 
