@@ -7,9 +7,9 @@ Run `docker-compose up -d` in the main folder where the `compose.yaml` file is l
 
 ### Users
 
-admin
-user
-viewer
+- admin
+- user
+- viewer
 
 (the **password** for simplicity's sake is uniformly **admin**)
 
